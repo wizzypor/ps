@@ -1,0 +1,27 @@
+.header-h{
+	height: 80px;
+	
+}
+.banner-h{
+	height: 850px;
+
+}
+.games-h{
+	height: 600px;
+
+}
+.devices-h{
+	height: 800px;
+
+}
+.font{
+	font-family: Arial
+}
+.h-85{
+	height: 85%
+}
+.collapse.in { min-height: 50px;border: 1px solid blue; }
+
+.fs-1 {
+	font-size: 30px
+}
